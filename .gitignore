@@ -1,0 +1,26 @@
+# Build
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+publish/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.rsuser
+
+# NuGet (pachetele se descarca automat la build)
+packages/
+*.nupkg
+
+# Baza de date locala
+*.db
+*.db-shm
+*.db-wal
+
+# macOS
+.DS_Store
